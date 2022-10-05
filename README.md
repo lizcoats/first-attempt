@@ -1,3 +1,3 @@
 # Title
 
-Some text.
+Some text. New paragraph.
